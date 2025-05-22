@@ -1,12 +1,12 @@
 
   </a>
-  <h1>👋 Oii! Eu sou a Kay! 👋</h1>
+  <h1>🌺 Oii! Eu sou a Kay! 👋🏾 </h1>
   <h3>Desenvolvedora Web & Mobile | Em busca de oportunidades! 🚀</h3>
 </div>
 
 ---
 
-### ✨ Sobre Mim ✨
+### 🪷 Sobre Mim 🪷
 
 Sou a **Kay**, uma entusiasta do **desenvolvimento web e mobile** no início da minha jornada, sempre buscando aprender e criar soluções incríveis! Minha paixão é transformar ideias em realidade, com um toque de organização e muita diversão.
 
@@ -14,7 +14,7 @@ Estou super animada para mergulhar em novos desafios e colaborar em projetos que
 
 ---
 
-### 💻 Minhas Habilidades 💻
+### 🎀 Minhas Habilidades 🎀
 
 Aqui estão as tecnologias que impulsionam minhas criações:
 
@@ -29,7 +29,7 @@ Aqui estão as tecnologias que impulsionam minhas criações:
 
 ---
 
-### 🌱 Meus Projetos 🌱
+### 🐇 Meus Projetos  🐇
 
 * LOADING...
 
@@ -55,7 +55,7 @@ Sou uma orgulhosa integrante do **Women in Tech**! 🌸
 
 ---
 
-### 💖 Estatísticas do GitHub 💖
+### 🩷 Estatísticas do GitHub  🩷
 
 Para um toque visual e divertido, podemos adicionar estatísticas do GitHub que mostram sua atividade.
 
