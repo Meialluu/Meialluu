@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://github.com/Meialluu">
-  <img height="180em" src="https://lh3.googleusercontent.com/pw/AP1GczPR94Wz9K8gM8u3u2L4J9v3v7o7V2y0e9X5o6b5w7m7X4f6Z1w3m1p5g3f6m8Y3y6w7w4m2e5z3j2m4m7n4d2p6x2k3t5v5v4d5x4f6j8k3/s1000-no/profile_photo.jpg" alt="Sua foto de perfil, Kay!"/>
+
   </a>
-  <h1>👋 Olá! Sou a Kay! 👋</h1>
+  <h1>👋 Oii! Eu sou a Kay! 👋</h1>
   <h3>Desenvolvedora Web & Mobile | Em busca de oportunidades! 🚀</h3>
 </div>
 
