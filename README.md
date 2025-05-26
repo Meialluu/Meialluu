@@ -63,3 +63,4 @@ Para um toque visual e divertido, podemos adicionar estatísticas do GitHub que 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meialluu&show_icons=true&theme=rose" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meialluu&theme=rose" alt="Streak do GitHub"/>
 </div>
+
