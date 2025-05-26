@@ -1,22 +1,21 @@
-
-  </a>
-  <h1>🌺 Oii! Eu sou a Kay! 👋🏾 </h1>
-  <h3>Desenvolvedora Web & Mobile | Em busca de oportunidades! 🚀</h3>
+<div>
+  <h1>🌺 Hey there! I'm Kay! 👋🏾 </h1>
+  <h3>Web & Mobile Developer | Seeking Opportunities! 🚀</h3>
 </div>
 
 ---
 
-### 🪷 Sobre Mim 🪷
+### 🪷 About Me 🪷
 
-Sou a **Kay**, uma entusiasta do **desenvolvimento web e mobile** no início da minha jornada, sempre buscando aprender e criar soluções incríveis! Minha paixão é transformar ideias em realidade, com um toque de organização e muita diversão.
+I'm **Kay**, a **web and mobile development** enthusiast at the beginning of my journey, always eager to learn and create amazing solutions! My passion is to turn ideas into reality, with a touch of organization and a lot of fun.
 
-Estou super animada para mergulhar em novos desafios e colaborar em projetos que me permitam crescer e aplicar minhas habilidades. Se você busca alguém com sede de conhecimento e que adora programar, chegamos ao lugar certo!
+I'm super excited to dive into new challenges and collaborate on projects that allow me to grow and apply my skills. If you're looking for someone with a thirst for knowledge and a love for coding, you've come to the right place!
 
 ---
 
-### 🎀 Minhas Habilidades 🎀
+### 🎀 My Skills 🎀
 
-Aqui estão as tecnologias que impulsionam minhas criações:
+Here are the technologies that power my creations:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -29,15 +28,15 @@ Aqui estão as tecnologias que impulsionam minhas criações:
 
 ---
 
-### 🐇 Meus Projetos  🐇
+### 🐇 My Projects 🐇
 
 * LOADING...
 
 ---
 
-### 🌷 Conecte-se Comigo! 🌷
+### 🌷 Connect With Me! 🌷
 
-Estou sempre aberta a novas conexões e oportunidades! Vamos conversar?
+I'm always open to new connections and opportunities! Let's chat?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kayla-moura-080857316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -51,16 +50,15 @@ Estou sempre aberta a novas conexões e oportunidades! Vamos conversar?
   </a>
 </p>
 
-Sou uma orgulhosa integrante do **Women in Tech**! 🌸
+I'm a proud member of **Women in Tech**! 🌸
 
 ---
 
-### 🩷 Estatísticas do GitHub  🩷
+### 🩷 GitHub Stats 🩷
 
-Para um toque visual e divertido, podemos adicionar estatísticas do GitHub que mostram sua atividade.
+For a visual and fun touch, we can add GitHub statistics to showcase your activity.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meialluu&show_icons=true&theme=rose" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meialluu&theme=rose" alt="Streak do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meialluu&show_icons=true&theme=rose" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meialluu&theme=rose" alt="GitHub Streak"/>
 </div>
-
